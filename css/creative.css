@@ -414,3 +414,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
+#biopic {
+  border-left: 20px solid #F05F40;
+border-radius: 40px;
+}
